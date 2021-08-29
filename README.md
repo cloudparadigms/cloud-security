@@ -1,5 +1,4 @@
-# cloud-security
-tabulation of security related stuff
+# cloud-security-awareness
 
 
 ## Security Initiatives by companies
