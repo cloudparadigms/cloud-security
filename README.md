@@ -14,3 +14,4 @@
 
 1. [How we hacked 1000's of Azure Customer databases](https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases) - related to Azure CosmosDB
 2. [Microsoft Cloud Databases Vulnerable for Years, Firm Says](https://www.bloomberg.com/news/articles/2021-08-27/microsoft-cloud-databases-vulnerable-for-years-researchers-say?sref=ExbtjcSG)
+3. [Security in CosmosDB](https://docs.microsoft.com/en-gb/azure/cosmos-db/database-security#primary-keys)
